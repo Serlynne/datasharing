@@ -1,4 +1,4 @@
-##My litle contribution is only this line
+##My little contribution is only this line
 
 How to share data with a statistician
 ===========
